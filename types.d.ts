@@ -1,0 +1,3 @@
+interface PredictionResponse {
+    prediction: string;
+}
